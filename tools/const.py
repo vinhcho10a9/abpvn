@@ -7,21 +7,17 @@ class Const():
         '.js', '.png', '.jpg', '.gif', '.aspx', '.jpeg',
         '.widget', 'block.ad', '.mp4', '.mp3', '.m3u8',
         '.row', '.parse', '.round', 'abpvn.com',
-        'abpvn.org', '.php', '.html', '.button', '.mrb10',
-        '.modal', '.ico', '.write', '.webp', 'PanelScroller.Notices',
-        'firstmessfloadright.samItem', 'banner-top-box.click',
-        'clear.hd', 'blqPr.nwsItHm', 'text-center.adsense', '.btn', '.show',
-        'show.fade', 'parent.special', '.patch', 'li.special.parent',
-        'relative.px-2.flex', 'd-none.p-0.company.flex-1.table', '2.bottom-0.fixed',
+        'abpvn.org', '.html', '.button',
+        '.modal', '.ico', '.write', '.webp', '.btn', '.show', 'parent.special', '.patch', 'li.special.parent',
         '2Flh3.googleusercontent.com', 'div.ad',
         '2Fp21-ad-sg.ibyteimg.com'
     ]
     SKIP_CHECK_REDIRECT = [
-        'amazonaws.com', 'blogspot.com', 'blogtruyen.com', 'fptplay.net',
-        'doubleclick.net', 'github.io', 'herokuapp.com', 'zing.vn', 'com.vn',
+        'blogspot.com', 'fptplay.net', 'doubleclick.net', 'com.vn',
         'net.vn', 'edu.vn', 'googlesyndication.com', 'gov.vn', 'nct.vn', 'org.vn',
-        'phukienthoitranggiare.com', 'cloudfront.net', 'admarketplace.net', 'www5.cbox.ws',
-        'web1s.asia', 'vinaurl.net', 'ezodn.com', 'adocean.pl', 'i.postimg.cc', 'mannhan95.xyz', 'api.anime3s.com'
+        'phukienthoitranggiare.com', 'cloudfront.net',
+        'web1s.asia', 'vinaurl.net', 'i.postimg.cc', 'mannhan97.xyz', 'api.anime3s.com',
+        'iili.io', 'cdn.jsdelivr.net'
     ]
     REDIRECT_REJECT_TARGET_DOMAIN = [
         'www.google.com', 'www.facebook.com', 'www.advertising.yahooinc.com', 'marketingplatform.google.com',

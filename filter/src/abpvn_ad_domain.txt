@@ -19,7 +19,7 @@
 ||api.adfly.vn^
 ||apinas.nct.vn^
 ||bidgear-syndication.com^
-||blueseed.tv^$third-party
+||blueseeddigital.com^$third-party
 ||cdn.adop.asia^
 ||cdn.tpmedia.online^
 ||cdnv.tpmedia.online^
@@ -34,7 +34,6 @@
 ||gammaplatform.com^$third-party
 ||genieesspv.jp^$third-party
 ||genmonet.com^
-||glodretsa.net^
 ||gullyending.com^
 ||hqq.to^$popup
 ||iads.staticscdn.net^
@@ -43,17 +42,18 @@
 ||immaculate-suspect.com^
 ||js.aiservice.vn^
 ||jsc.yodimedia.com^
+||lpuodgmca.com^
 ||media.yomedia.vn^
 ||meta.vn^$third-party
 ||midgetmaying.com^
 ||mt.deimosfestuca.com^
 ||ny.foonerne.com^
 ||o6z2a2kq8fatj3ch0x5ow6v82ha2gja8x8c7w6pc5gx2ls0zia7bx1n28b5d.com^
+||onnetwork.tv^$third-party
 ||oursty.com^
 ||platform.adlinknetwork.vn^
 ||player.gliacloud.com^
 ||poasauwhoothy.net^
-||psugheeghuli.net^
 ||pub.akadigital.vn^
 ||pub.lavamedia.vn^
 ||pub.lavanetwork.net^$third-party
@@ -73,7 +73,6 @@
 ||taboola.com^$script,third-party
 ||tags.fly-ads.net^
 ||tags.native-ad.net^
-||toathoule.com^
 ||v9banners.com^
 ||vads.net.vn^
 ||wr.brandonketting.com^

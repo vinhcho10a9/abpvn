@@ -1,0 +1,409 @@
+diff name:abpvn lines:87 checksum:208c13bcba
+d2 1
+a2 1
+! Version: 20250523180447744
+d5 2
+a6 2
+! Last modified: 23 May 2025 18:04:47 UTC+7
+! Diff-Path: patches/20250523180447744.patch#abpvn
+d47 1
+a47 1
+/i.imgur.com/*.gif$domain=keonhacai55.chat|motchill86.com|www.phimdinhcao.online|deligallery.com|veboxg.cc|cakhiavx.cc|listnhacai88.com|thelookoutedinburgh.co|ww38.xemtivingon.org|mitomtvt.cc|rakhoivk.cc|plcdn.xyz
+d109 1
+a109 1
+||ghienphim.blog^*.gif$image,domain=xemphimviet.site
+d118 1
+d134 1
+a134 1
+||iili.io^*.gif$image,domain=phimtuoitho.site
+d153 1
+a153 1
+||motchill86.com/3s.m3u8$rewrite=abp-resource:blank-mp3,domain=motchill86.com
+d185 1
+a185 1
+||quoracdn.net^$image,domain=motchill86.com|www.phimdinhcao.online
+d246 1
+a246 1
+||www.bongdalu128.com^*.gif
+d254 3
+a256 3
+||xemphimviet.site/client_assets/js/dataview/adsview.js$script,~third-party
+||xemphimviet.site/client_assets/js/minijumb.js$script,~third-party
+||xemphimviet.site^*.gif$image
+d387 1
+a387 1
+animevietsub.lol,phimtuoitho.site##.pc-catfixx
+d413 1
+a413 1
+bc.xoilac5.lol,live4.xoilac34.org,phim18vl.net,freeplayervideo.com,abysscdn.com,player-cdn.com,fdcdn.xyz,anime7.site,cloudasiatv.xyz##.jw-logo
+d443 3
+a445 3
+cakhiavx.cc,deligallery.com,veboxg.cc###quangcaopc
+cakhiavx.cc,deligallery.com,veboxg.cc##.marquee-container
+cakhiavx.cc,deligallery.com,veboxg.cc,thelookoutedinburgh.co,rakhoivk.cc###wap_bottombanner
+a470 15
+deligallery.com###match-child-1
+deligallery.com##.block-catfish.text-center.d-lg-none.d-block
+deligallery.com##.container>ul
+deligallery.com##.offer
+deligallery.com##.offer__btn
+deligallery.com##.pl-lg-0.col-xl-4
+deligallery.com##.row.d-none
+deligallery.com##.widget-offers__list
+deligallery.com##div.d-lg-none.d-block:nth-of-type(3)
+deligallery.com,mitomtvt.cc##.menu-cuoc-8xbet
+deligallery.com,mitomtvt.cc##.menu-top-nha-cai
+deligallery.com,rakhoivk.cc##.sk_balloon
+deligallery.com,thelookoutedinburgh.co##.match-detail__offer
+deligallery.com,veboxg.cc,cakhiavx.cc,mitomtvt.cc,thelookoutedinburgh.co##div[id^="dnn_"]
+deligallery.com,veboxg.cc,cakhiavx.cc,thelookoutedinburgh.co,mitomtvt.cc##.company
+d478 15
+d565 1
+a565 1
+ketqua04.net,nghean24h.vn,xem.tructiepnba.me,doctruyenln.com,xemtivi4k.com,deligallery.com,bongdainfox.tv,watch.thapcam.pro,xx2.thapcam53.info,nn13.thapcam.asia,www.phimdinhcao.online##a[rel="nofollow"]
+d571 1
+a571 1
+kienthuc.net.vn,saostar.vn,bongda24h.vn,cungthi.online,appvn.com,antt.vn,xemphimviet.site,ghienphim.co,nghenhinvietnam.vn,vivuphim.info,vn-z.vn##.ads
+d620 3
+a622 3
+motchill86.com##.banner-preload
+motchill86.com,www.phimdinhcao.online##.banner-container
+motchill86.com,www.phimdinhcao.online##.catfish-top
+d750 1
+a750 1
+toquoc.vn,baoxaydung.vn,tienphong.vn,taichinhdoanhnghiep.net.vn,thichxemphim1.site,xemphimviet.site,ghienphim.co,nettruyener.com##.banner
+d850 2
+a851 2
+www.phimdinhcao.online,motchill86.com##.BanerTop100
+www.phimdinhcao.online,motchill86.com##.adv-300-right
+d863 5
+a867 5
+xemphimviet.site##li.special.parent
+xemphimviet.site,ghienphim.co##.ad-floater
+xemphimviet.site,ghienphim.co##.popunder-link
+xemphimviet.site,ghienphim.co##.promotion-popup
+xemphimviet.site,ghienphim.co##.video-ad-layer
+d960 1
+a960 1
+*$third-party,script,domain=sexdiaryx.live
+diff name:abpvn_adguard lines:98 checksum:28d3da58c8
+d2 1
+a2 1
+! Version: 20250523180447744
+d5 2
+a6 2
+! Last modified: 23 May 2025 18:04:47 UTC+7
+! Diff-Path: patches/20250523180447744.patch#abpvn_adguard
+d45 1
+a45 1
+/i.imgur.com/*.gif$domain=keonhacai55.chat|motchill86.com|www.phimdinhcao.online|deligallery.com|veboxg.cc|cakhiavx.cc|listnhacai88.com|thelookoutedinburgh.co|ww38.xemtivingon.org|mitomtvt.cc|rakhoivk.cc|plcdn.xyz
+d107 1
+a107 1
+||ghienphim.blog^*.gif$image,domain=xemphimviet.site
+d116 1
+d132 1
+a132 1
+||iili.io^*.gif$image,domain=phimtuoitho.site
+d151 1
+a151 1
+||motchill86.com/3s.m3u8$rewrite=abp-resource:blank-mp3,domain=motchill86.com
+d183 1
+a183 1
+||quoracdn.net^$image,domain=motchill86.com|www.phimdinhcao.online
+d242 1
+a242 1
+||www.bongdalu128.com^*.gif
+d250 3
+a252 3
+||xemphimviet.site/client_assets/js/dataview/adsview.js$script,~third-party
+||xemphimviet.site/client_assets/js/minijumb.js$script,~third-party
+||xemphimviet.site^*.gif$image
+d383 1
+a383 1
+animevietsub.lol,phimtuoitho.site##.pc-catfixx
+d409 1
+a409 1
+bc.xoilac5.lol,live4.xoilac34.org,phim18vl.net,freeplayervideo.com,abysscdn.com,player-cdn.com,fdcdn.xyz,anime7.site,cloudasiatv.xyz##.jw-logo
+d439 3
+a441 3
+cakhiavx.cc,deligallery.com,veboxg.cc###quangcaopc
+cakhiavx.cc,deligallery.com,veboxg.cc##.marquee-container
+cakhiavx.cc,deligallery.com,veboxg.cc,thelookoutedinburgh.co,rakhoivk.cc###wap_bottombanner
+a466 15
+deligallery.com###match-child-1
+deligallery.com##.block-catfish.text-center.d-lg-none.d-block
+deligallery.com##.container>ul
+deligallery.com##.offer
+deligallery.com##.offer__btn
+deligallery.com##.pl-lg-0.col-xl-4
+deligallery.com##.row.d-none
+deligallery.com##.widget-offers__list
+deligallery.com##div.d-lg-none.d-block:nth-of-type(3)
+deligallery.com,mitomtvt.cc##.menu-cuoc-8xbet
+deligallery.com,mitomtvt.cc##.menu-top-nha-cai
+deligallery.com,rakhoivk.cc##.sk_balloon
+deligallery.com,thelookoutedinburgh.co##.match-detail__offer
+deligallery.com,veboxg.cc,cakhiavx.cc,mitomtvt.cc,thelookoutedinburgh.co##div[id^="dnn_"]
+deligallery.com,veboxg.cc,cakhiavx.cc,thelookoutedinburgh.co,mitomtvt.cc##.company
+d474 15
+d561 1
+a561 1
+ketqua04.net,nghean24h.vn,xem.tructiepnba.me,doctruyenln.com,xemtivi4k.com,deligallery.com,bongdainfox.tv,watch.thapcam.pro,xx2.thapcam53.info,nn13.thapcam.asia,www.phimdinhcao.online##a[rel="nofollow"]
+d567 1
+a567 1
+kienthuc.net.vn,saostar.vn,bongda24h.vn,cungthi.online,appvn.com,antt.vn,xemphimviet.site,ghienphim.co,nghenhinvietnam.vn,vivuphim.info,vn-z.vn##.ads
+d616 3
+a618 3
+motchill86.com##.banner-preload
+motchill86.com,www.phimdinhcao.online##.banner-container
+motchill86.com,www.phimdinhcao.online##.catfish-top
+d746 1
+a746 1
+toquoc.vn,baoxaydung.vn,tienphong.vn,taichinhdoanhnghiep.net.vn,thichxemphim1.site,xemphimviet.site,ghienphim.co,nettruyener.com##.banner
+d846 2
+a847 2
+www.phimdinhcao.online,motchill86.com##.BanerTop100
+www.phimdinhcao.online,motchill86.com##.adv-300-right
+d859 5
+a863 5
+xemphimviet.site##li.special.parent
+xemphimviet.site,ghienphim.co##.ad-floater
+xemphimviet.site,ghienphim.co##.popunder-link
+xemphimviet.site,ghienphim.co##.promotion-popup
+xemphimviet.site,ghienphim.co##.video-ad-layer
+d953 1
+a953 1
+*$third-party,script,domain=sexdiaryx.live
+d1139 1
+a1139 1
+deligallery.com#%#//scriptlet("abort-on-property-read", "adsRedirectPopups")
+d1157 1
+a1157 1
+imail.edu.vn,motchill86.com,trumtruyen.live#%#//scriptlet("abort-current-inline-script", "setTimeout", "Aff")
+a1161 1
+laophatgia.net#%#//scriptlet("abort-current-inline-script", "document.getElementsByClassName", "reading-content")
+d1216 1
+a1216 1
+www.phimdinhcao.online,motchill86.com,xnhau.pe,teamlanhlung8.shop,xemphimjav.us#%#//scriptlet("abort-on-property-read", "localStorage")
+diff name:abpvn_content_blocker lines:87 checksum:604612325f
+d2 1
+a2 1
+! Version: 20250523180447744
+d5 2
+a6 2
+! Last modified: 23 May 2025 18:04:47 UTC+7
+! Diff-Path: patches/20250523180447744.patch#abpvn_content_blocker
+d47 1
+a47 1
+/i.imgur.com/*.gif$domain=keonhacai55.chat|motchill86.com|www.phimdinhcao.online|deligallery.com|veboxg.cc|cakhiavx.cc|listnhacai88.com|thelookoutedinburgh.co|ww38.xemtivingon.org|mitomtvt.cc|rakhoivk.cc|plcdn.xyz
+d109 1
+a109 1
+||ghienphim.blog^*.gif$image,domain=xemphimviet.site
+d118 1
+d134 1
+a134 1
+||iili.io^*.gif$image,domain=phimtuoitho.site
+d153 1
+a153 1
+||motchill86.com/3s.m3u8$rewrite=abp-resource:blank-mp3,domain=motchill86.com
+d185 1
+a185 1
+||quoracdn.net^$image,domain=motchill86.com|www.phimdinhcao.online
+d246 1
+a246 1
+||www.bongdalu128.com^*.gif
+d254 3
+a256 3
+||xemphimviet.site/client_assets/js/dataview/adsview.js$script,~third-party
+||xemphimviet.site/client_assets/js/minijumb.js$script,~third-party
+||xemphimviet.site^*.gif$image
+d387 1
+a387 1
+animevietsub.lol,phimtuoitho.site##.pc-catfixx
+d413 1
+a413 1
+bc.xoilac5.lol,live4.xoilac34.org,phim18vl.net,freeplayervideo.com,abysscdn.com,player-cdn.com,fdcdn.xyz,anime7.site,cloudasiatv.xyz##.jw-logo
+d443 3
+a445 3
+cakhiavx.cc,deligallery.com,veboxg.cc###quangcaopc
+cakhiavx.cc,deligallery.com,veboxg.cc##.marquee-container
+cakhiavx.cc,deligallery.com,veboxg.cc,thelookoutedinburgh.co,rakhoivk.cc###wap_bottombanner
+a470 15
+deligallery.com###match-child-1
+deligallery.com##.block-catfish.text-center.d-lg-none.d-block
+deligallery.com##.container>ul
+deligallery.com##.offer
+deligallery.com##.offer__btn
+deligallery.com##.pl-lg-0.col-xl-4
+deligallery.com##.row.d-none
+deligallery.com##.widget-offers__list
+deligallery.com##div.d-lg-none.d-block:nth-of-type(3)
+deligallery.com,mitomtvt.cc##.menu-cuoc-8xbet
+deligallery.com,mitomtvt.cc##.menu-top-nha-cai
+deligallery.com,rakhoivk.cc##.sk_balloon
+deligallery.com,thelookoutedinburgh.co##.match-detail__offer
+deligallery.com,veboxg.cc,cakhiavx.cc,mitomtvt.cc,thelookoutedinburgh.co##div[id^="dnn_"]
+deligallery.com,veboxg.cc,cakhiavx.cc,thelookoutedinburgh.co,mitomtvt.cc##.company
+d478 15
+d565 1
+a565 1
+ketqua04.net,nghean24h.vn,xem.tructiepnba.me,doctruyenln.com,xemtivi4k.com,deligallery.com,bongdainfox.tv,watch.thapcam.pro,xx2.thapcam53.info,nn13.thapcam.asia,www.phimdinhcao.online##a[rel="nofollow"]
+d571 1
+a571 1
+kienthuc.net.vn,saostar.vn,bongda24h.vn,cungthi.online,appvn.com,antt.vn,xemphimviet.site,ghienphim.co,nghenhinvietnam.vn,vivuphim.info,vn-z.vn##.ads
+d620 3
+a622 3
+motchill86.com##.banner-preload
+motchill86.com,www.phimdinhcao.online##.banner-container
+motchill86.com,www.phimdinhcao.online##.catfish-top
+d750 1
+a750 1
+toquoc.vn,baoxaydung.vn,tienphong.vn,taichinhdoanhnghiep.net.vn,thichxemphim1.site,xemphimviet.site,ghienphim.co,nettruyener.com##.banner
+d850 2
+a851 2
+www.phimdinhcao.online,motchill86.com##.BanerTop100
+www.phimdinhcao.online,motchill86.com##.adv-300-right
+d863 5
+a867 5
+xemphimviet.site##li.special.parent
+xemphimviet.site,ghienphim.co##.ad-floater
+xemphimviet.site,ghienphim.co##.popunder-link
+xemphimviet.site,ghienphim.co##.promotion-popup
+xemphimviet.site,ghienphim.co##.video-ad-layer
+d960 1
+a960 1
+*$third-party,script,domain=sexdiaryx.live
+diff name:abpvn_noelemhide lines:34 checksum:64d75eb8e0
+d2 1
+a2 1
+! Version: 20250523180447744
+d5 2
+a6 2
+! Last modified: 23 May 2025 18:04:47 UTC+7
+! Diff-Path: patches/20250523180447744.patch#abpvn_noelemhide
+d47 1
+a47 1
+/i.imgur.com/*.gif$domain=keonhacai55.chat|motchill86.com|www.phimdinhcao.online|deligallery.com|veboxg.cc|cakhiavx.cc|listnhacai88.com|thelookoutedinburgh.co|ww38.xemtivingon.org|mitomtvt.cc|rakhoivk.cc|plcdn.xyz
+d109 1
+a109 1
+||ghienphim.blog^*.gif$image,domain=xemphimviet.site
+d118 1
+d134 1
+a134 1
+||iili.io^*.gif$image,domain=phimtuoitho.site
+d153 1
+a153 1
+||motchill86.com/3s.m3u8$rewrite=abp-resource:blank-mp3,domain=motchill86.com
+d185 1
+a185 1
+||quoracdn.net^$image,domain=motchill86.com|www.phimdinhcao.online
+d246 1
+a246 1
+||www.bongdalu128.com^*.gif
+d254 3
+a256 3
+||xemphimviet.site/client_assets/js/dataview/adsview.js$script,~third-party
+||xemphimviet.site/client_assets/js/minijumb.js$script,~third-party
+||xemphimviet.site^*.gif$image
+d366 1
+a366 1
+*$third-party,script,domain=sexdiaryx.live
+diff name:abpvn_ublock lines:98 checksum:4bc06c6abe
+d2 1
+a2 1
+! Version: 20250523180447744
+d5 2
+a6 2
+! Last modified: 23 May 2025 18:04:47 UTC+7
+! Diff-Path: patches/20250523180447744.patch#abpvn_ublock
+d45 1
+a45 1
+/i.imgur.com/*.gif$domain=keonhacai55.chat|motchill86.com|www.phimdinhcao.online|deligallery.com|veboxg.cc|cakhiavx.cc|listnhacai88.com|thelookoutedinburgh.co|ww38.xemtivingon.org|mitomtvt.cc|rakhoivk.cc|plcdn.xyz
+d107 1
+a107 1
+||ghienphim.blog^*.gif$image,domain=xemphimviet.site
+d116 1
+d132 1
+a132 1
+||iili.io^*.gif$image,domain=phimtuoitho.site
+d151 1
+a151 1
+||motchill86.com/3s.m3u8$rewrite=abp-resource:blank-mp3,domain=motchill86.com
+d183 1
+a183 1
+||quoracdn.net^$image,domain=motchill86.com|www.phimdinhcao.online
+d242 1
+a242 1
+||www.bongdalu128.com^*.gif
+d250 3
+a252 3
+||xemphimviet.site/client_assets/js/dataview/adsview.js$script,~third-party
+||xemphimviet.site/client_assets/js/minijumb.js$script,~third-party
+||xemphimviet.site^*.gif$image
+d383 1
+a383 1
+animevietsub.lol,phimtuoitho.site##.pc-catfixx
+d409 1
+a409 1
+bc.xoilac5.lol,live4.xoilac34.org,phim18vl.net,freeplayervideo.com,abysscdn.com,player-cdn.com,fdcdn.xyz,anime7.site,cloudasiatv.xyz##.jw-logo
+d439 3
+a441 3
+cakhiavx.cc,deligallery.com,veboxg.cc###quangcaopc
+cakhiavx.cc,deligallery.com,veboxg.cc##.marquee-container
+cakhiavx.cc,deligallery.com,veboxg.cc,thelookoutedinburgh.co,rakhoivk.cc###wap_bottombanner
+a466 15
+deligallery.com###match-child-1
+deligallery.com##.block-catfish.text-center.d-lg-none.d-block
+deligallery.com##.container>ul
+deligallery.com##.offer
+deligallery.com##.offer__btn
+deligallery.com##.pl-lg-0.col-xl-4
+deligallery.com##.row.d-none
+deligallery.com##.widget-offers__list
+deligallery.com##div.d-lg-none.d-block:nth-of-type(3)
+deligallery.com,mitomtvt.cc##.menu-cuoc-8xbet
+deligallery.com,mitomtvt.cc##.menu-top-nha-cai
+deligallery.com,rakhoivk.cc##.sk_balloon
+deligallery.com,thelookoutedinburgh.co##.match-detail__offer
+deligallery.com,veboxg.cc,cakhiavx.cc,mitomtvt.cc,thelookoutedinburgh.co##div[id^="dnn_"]
+deligallery.com,veboxg.cc,cakhiavx.cc,thelookoutedinburgh.co,mitomtvt.cc##.company
+d474 15
+d561 1
+a561 1
+ketqua04.net,nghean24h.vn,xem.tructiepnba.me,doctruyenln.com,xemtivi4k.com,deligallery.com,bongdainfox.tv,watch.thapcam.pro,xx2.thapcam53.info,nn13.thapcam.asia,www.phimdinhcao.online##a[rel="nofollow"]
+d567 1
+a567 1
+kienthuc.net.vn,saostar.vn,bongda24h.vn,cungthi.online,appvn.com,antt.vn,xemphimviet.site,ghienphim.co,nghenhinvietnam.vn,vivuphim.info,vn-z.vn##.ads
+d616 3
+a618 3
+motchill86.com##.banner-preload
+motchill86.com,www.phimdinhcao.online##.banner-container
+motchill86.com,www.phimdinhcao.online##.catfish-top
+d746 1
+a746 1
+toquoc.vn,baoxaydung.vn,tienphong.vn,taichinhdoanhnghiep.net.vn,thichxemphim1.site,xemphimviet.site,ghienphim.co,nettruyener.com##.banner
+d846 2
+a847 2
+www.phimdinhcao.online,motchill86.com##.BanerTop100
+www.phimdinhcao.online,motchill86.com##.adv-300-right
+d859 5
+a863 5
+xemphimviet.site##li.special.parent
+xemphimviet.site,ghienphim.co##.ad-floater
+xemphimviet.site,ghienphim.co##.popunder-link
+xemphimviet.site,ghienphim.co##.promotion-popup
+xemphimviet.site,ghienphim.co##.video-ad-layer
+d952 1
+a952 1
+*$third-party,script,domain=sexdiaryx.live
+d1138 1
+a1138 1
+deligallery.com##+js(aopr, adsRedirectPopups)
+d1156 1
+a1156 1
+imail.edu.vn,motchill86.com,trumtruyen.live##+js(acs, setTimeout, Aff)
+a1160 1
+laophatgia.net##+js(acs, document.getElementsByClassName, reading-content)
+d1214 1
+a1214 1
+www.phimdinhcao.online,motchill86.com,xnhau.pe,teamlanhlung8.shop,xemphimjav.us##+js(aopr, localStorage)

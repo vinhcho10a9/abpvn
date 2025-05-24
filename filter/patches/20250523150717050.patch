@@ -1,0 +1,55 @@
+diff name:abpvn lines:10 checksum:208c13bcba
+d2 1
+a2 1
+! Version: 20250523180447744
+d5 2
+a6 2
+! Last modified: 23 May 2025 18:04:47 UTC+7
+! Diff-Path: patches/20250523180447744.patch#abpvn
+d245 1
+a245 1
+||www.bongdalu128.com^*.gif
+diff name:abpvn_adguard lines:10 checksum:28d3da58c8
+d2 1
+a2 1
+! Version: 20250523180447744
+d5 2
+a6 2
+! Last modified: 23 May 2025 18:04:47 UTC+7
+! Diff-Path: patches/20250523180447744.patch#abpvn_adguard
+d241 1
+a241 1
+||www.bongdalu128.com^*.gif
+diff name:abpvn_content_blocker lines:10 checksum:604612325f
+d2 1
+a2 1
+! Version: 20250523180447744
+d5 2
+a6 2
+! Last modified: 23 May 2025 18:04:47 UTC+7
+! Diff-Path: patches/20250523180447744.patch#abpvn_content_blocker
+d245 1
+a245 1
+||www.bongdalu128.com^*.gif
+diff name:abpvn_noelemhide lines:10 checksum:64d75eb8e0
+d2 1
+a2 1
+! Version: 20250523180447744
+d5 2
+a6 2
+! Last modified: 23 May 2025 18:04:47 UTC+7
+! Diff-Path: patches/20250523180447744.patch#abpvn_noelemhide
+d245 1
+a245 1
+||www.bongdalu128.com^*.gif
+diff name:abpvn_ublock lines:10 checksum:4bc06c6abe
+d2 1
+a2 1
+! Version: 20250523180447744
+d5 2
+a6 2
+! Last modified: 23 May 2025 18:04:47 UTC+7
+! Diff-Path: patches/20250523180447744.patch#abpvn_ublock
+d241 1
+a241 1
+||www.bongdalu128.com^*.gif

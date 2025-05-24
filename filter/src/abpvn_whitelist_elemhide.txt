@@ -5,6 +5,7 @@
 @@||dafontvn.com$generichide
 @@||dantri.com.vn$generichide
 @@||dieutri.vn$generichide
+@@||dl.thuthuatjb.com$generichide
 @@||duan24h.net$generichide
 @@||gamehayvl.com$generichide
 @@||giavang.net$generichide
@@ -29,6 +30,7 @@
 @@||ycongnghe.com$generichide
 @@||yhocdata.com$generichide
 gicovietnam.blogspot.com#@#.inline-ad
+hhkungfu.club#@#.banner-ad
 ios.codevn.net#@#div[id*="ScriptRoot"]
 ios.codevn.net,ipacrack.com#@#ins.adsbygoogle[data-ad-slot]
 nhipcaudautu.vn#@#.ads_top
@@ -41,3 +43,4 @@ tratu.soha.vn#@#.adheader
 truyenaudiocv.org#@#.ads-large
 vn2.vn#@#.advertiser
 vndoc.com#@#.showads
+vozer.vn#@#[class^="div-gpt-ad"]
